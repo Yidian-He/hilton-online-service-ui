@@ -1,4 +1,8 @@
 # Hilton Online Service UI
+## Prerequisite
+```bash
+$ nvm use 20
+```
 
 ## Compile and run the project
 
